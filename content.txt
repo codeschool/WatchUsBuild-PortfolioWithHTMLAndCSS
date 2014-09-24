@@ -1,0 +1,28 @@
+Jon Friskics
+
+
+I'm an iOS Developer and Educator who works at Code School helping build the best way to learn to code.
+
+
+Try iOS (released November 2012), Try Objective-C (released March 2013), Core iOS 7 (released September 2013)
+
+
+Try iOS, Try Objective-C, iOS Operation: Models, Core iOS 7
+
+
+- Learning Auto Layout in Core iOS 7 https://www.codeschool.com/blog/2013/11/13/learning-auto-layout-in-core-ios-7/
+- Optimized for iOS 7 https://www.codeschool.com/blog/2013/12/20/optimized-for-ios-7/
+- (Early) thoughts on Swift, Apple's new programming language http://blog.codeschool.com/post/87704128233/early-thoughts-on-swift-apples-new-programming
+- How Apple's new programming language will impact your company http://www.bizjournals.com/orlando/blog/2014/06/how-apples-new-programming-language-will-impact.html?page=all
+- Swift is great, but you should still know Objective-C first http://venturebeat.com/2014/06/07/swift-is-great-but-you-should-still-know-objective-c-first/
+
+
+- Objective-C
+- Swift
+- HTML
+- CSS
+- JavaScript
+- git
+
+
+jon@codeschool.com
