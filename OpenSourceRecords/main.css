@@ -1,0 +1,160 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+h1 {
+  color: #000000;
+  margin: 15px 0 15px;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+h2 {
+  color: #333333;
+  margin: 20px 0 5px 0;
+  border-bottom: 1px solid #aaaaaa;
+  padding: 2px;
+  font-family: Verdana, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+h3 {
+  color: #666666;
+  margin: 10px 0 10px 0;
+  font-family: Verdana, sans-serif;
+  font-size: 18px;
+}
+p {
+  color: #444444;
+  margin: 0 0 10px 0;
+  line-height: 24px;
+}
+a {
+  color: #440000;
+}
+ul {
+  padding: 0 0 0 30px;
+}
+li {
+  margin-bottom: 5px;
+  line-height: 22px;
+}
+body {
+  padding: 0;
+  background: #555555 url(images/bg-tile.png) top left repeat;
+  font-family: Garamond, serif;
+  font-size: 16px;
+}
+ol {
+  padding: 0 0 0 20px;
+}
+.nav {
+  padding: 0;
+  text-align: center;
+}
+.nav li {
+  display: inline;
+  padding-right: 20px;
+}
+.nav li:last-child {
+  padding-right: 0;
+}
+.nav a {
+  color: #ee932a;
+}
+.day-time {
+  color: #444444;
+  margin: 0 0 3px 0;
+}
+.concert-location {
+  color: #888888;
+  margin: 0 0 15px 0;
+}
+.header {
+  padding: 15px;
+  background: #242424 url(images/bg-header.png) top center no-repeat;
+}
+.content-section {
+  padding: 15px;
+  width: 450px;
+  margin: 0 auto;
+  background: #ffffff url(images/bg-content.png) top left repeat;
+}
+.album {
+  border: 2px dashed #bbbbbb;
+  padding: 5px 10px 5px 10px;
+  margin-bottom: 5px;
+  background-color: #ffffff;
+}
+.band-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.band-list h2 {
+  border-bottom: 0;
+  margin: 0;
+}
+.band-list a {
+  text-decoration: none;
+  color: #ff2244;
+}
+.band-list li {
+  border: 1px solid #555555;
+  background-color: #ffffff;
+  height: 120px;
+}
+.header img {
+  margin: 0 auto 15px auto;
+  display: block;
+}
+.recording-now {
+  width: 440px;
+  height: 200px;
+  background: #ffffff url(images/prependers-recording.jpg) center center no-repeat;
+  border: 1px solid #ee932a;
+  padding: 4px 4px 4px 4px;
+}
+.recording-now p {
+  color: #ffffff;
+  font-size: 28px;
+}
+.band-list img {
+  float: left;
+  padding-right: 15px;
+}
+.album img {
+  float: right;
+}
+input {
+  display: block;
+  margin-bottom: 0 0 15px 0;
+  font-size: 20px;
+}
+label {
+  display: block;
+  font-weight: bold;
+}
+textarea {
+  display: block;
+  margin-bottom: 0 0 15px 0;
+  width: 445px;
+  font-size: 20px;
+}
+input[type=submit] {
+  width: 165px;
+}
+input[type="checkbox"], label[for=on-tour] {
+  display: inline;
+}
+input {
+  display: block;
+  margin-bottom: 0 0 15px 0;
+  font-size: 20px;
+}
+input[type=text] {
+  width: 445px;
+}
